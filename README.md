@@ -1,5 +1,4 @@
-%% BEGINNING FILE %%
-Randomization Program
+# Randomization
 This program was designed to randomize participants in blocks of 6 based on a single stratified variable into one of three interventions.  The Graphical User Interface (GUI) was designed for any user.  It was written in Matlab2015a.  
 To get started: 
 1. Before running the first block, fill out the Block1.xls template.  There should be a 6 x 2 matrix where the column on the left is the participant number (make sure it is an integer like 1, 2, or 3.  If there is a string added there will be an error with the program).  The column on the right will be the corresponding stratified variable (1 or 2).
